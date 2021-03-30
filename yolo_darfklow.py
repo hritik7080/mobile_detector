@@ -1,3 +1,7 @@
+"""
+YOLO Darkflow
+"""
+
 from darkflow.net.build import TFNet
 
 from object_detector import ObjectDetector
